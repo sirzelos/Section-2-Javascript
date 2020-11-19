@@ -6,7 +6,7 @@
 
 ## 2.2
 * Chessboard.html
-*Chessboard.js
+* Chessboard.js
 
 ## 2.3
 * TheSumOfARange.html
